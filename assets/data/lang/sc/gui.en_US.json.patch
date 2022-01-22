@@ -1,0 +1,10 @@
+{
+	"labels": {
+		"title-screen": {
+			"mods": "Test area"
+		},
+		"test": {
+			"test": "Hello, World!"
+		}
+	}
+}

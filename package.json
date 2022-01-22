@@ -1,0 +1,6 @@
+{
+	"name": "ui-lib",
+	"ccmodHumanName": "UI Lib",
+	"version": "0.0.1",
+	"plugin": "plugin.js"
+}

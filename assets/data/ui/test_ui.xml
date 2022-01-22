@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<regular-box xsi:noNamespaceSchemaLocation="file:///D:/Programming/CrossCodeModding/ui%20lib/src/ui.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<hook pos="2 22" size="120 60" />
+	<button-group name="test1" />
+	<button id="test-button" button-width="100" button-group="test1" button-type="default" label="sc.gui.test.test">
+		
+	</button>
+</regular-box>
